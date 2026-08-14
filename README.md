@@ -12,6 +12,6 @@ This project implements a Finite State Machine (FSM) in Verilog to control a sta
 ### Simulation Results
 The state transitions (e.g., Green -> Yellow -> Red) and timing intervals were fully verified using a custom testbench and waveform simulation.
 
-![Waveform Simulation]([test_bench.jpg])
+![Waveform Simulation](test_bench.jpg)
 
 As shown in the waveform above, the FSM accurately transitions through the defined states based on the clock signal, ensuring a reliable traffic control sequence.
